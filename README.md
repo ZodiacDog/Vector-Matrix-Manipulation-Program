@@ -458,9 +458,7 @@ MIT License - see LICENSE file for details
 
 ## 📞 Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/vecmatrix/issues)
-- Documentation: [Full Docs](https://vecmatrix.readthedocs.io)
-- Email: support@vecmatrix.io
+- Email: maesonsfarms@gmail.com (be nice or ignored)
 
 ---
 
