@@ -292,3 +292,5 @@ The library demonstrates:
 **Author**: ML  
 **License**: MIT  
 **Status**: Production-Ready ✓
+
+brought to you by ML aka ZodiacDog
